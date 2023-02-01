@@ -11,3 +11,5 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 - quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
 - quais arquivos/pastas foram desenvolvidos pela Trybe.
 -->
+
+[video](https://github.com/PedroHOM16/loja-online-frontend/blob/main/project-front-master-responsive.gif)

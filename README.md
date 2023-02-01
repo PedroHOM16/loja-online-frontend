@@ -1,15 +1,13 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# :shopping_cart: Vamos as Compras ?! :shopping_cart:
+# :house: Sem sair de casa ?! :house:
+# :monocle_face: Então dê uma olhada neste projeto!!!
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Com a parceria da [Trybe](https://www.betrybe.com/) desenvolvi um projeto em grupo utilizando conhecimentos avançados de HTML, CSS e JavaScript, com componentização por classe pelo React. 
 
-[video](https://github.com/PedroHOM16/loja-online-frontend/blob/main/project-front-master-responsive.gif)
+[Um CSS responsivo](https://github.com/PedroHOM16/loja-online-frontend/blob/main/project-front-master-responsive.gif) e a utilização da API do [mercado livre](https://api.mercadolibre.com/sites/MLB/categories) para simular uma loja online, com filtro de produtos e um carrinho de compras.
+
+Um abraço especial para [Débora Serra](https://github.com/DeboraSerra), [Jaziel Silva](https://github.com/Jazyel99), [Regislaine Regis](https://github.com/RegislaineRegis) e [Victor Reksidler](https://github.com/vbreksidler). Grupo 4, fizemos um ótimo trabalho, com gostinho de 100%!
+
+[Pedro Henrique Oliveira de Moura](pedrohom16.github.io)
+

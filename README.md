@@ -9,5 +9,5 @@ Com a parceria da [Trybe](https://www.betrybe.com/) desenvolvi um projeto em gru
 
 Um abraço especial para [Débora Serra](https://github.com/DeboraSerra), [Jaziel Silva](https://github.com/Jazyel99), [Regislaine Regis](https://github.com/RegislaineRegis) e [Victor Reksidler](https://github.com/vbreksidler). Grupo 4, fizemos um ótimo trabalho, com gostinho de 100%!
 
-[Pedro Henrique Oliveira de Moura](pedrohom16.github.io)
+[Pedro Henrique Oliveira de Moura](https://pedrohom16.github.io)
 
